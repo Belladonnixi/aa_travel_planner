@@ -1,5 +1,5 @@
-import 'package:aa_travel_planner/presentation/features/destinations/widgets/destination_card.dart';
-import 'package:aa_travel_planner/presentation/features/destinations/screens/destination_details_screen.dart';
+import 'package:aa_travel_planner/presentation/destinations/widgets/destination_card.dart';
+import 'package:aa_travel_planner/presentation/destinations/screens/destination_details_screen.dart';
 import 'package:aa_travel_planner/data/repositories/destination_repository.dart';
 import 'package:aa_travel_planner/data/repositories/favorites_repository.dart';
 import 'package:flutter/material.dart';

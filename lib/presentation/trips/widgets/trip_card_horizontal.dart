@@ -1,5 +1,5 @@
 import 'package:aa_travel_planner/data/models/trip.dart';
-import 'package:aa_travel_planner/presentation/features/trips/screens/trip_details_screen.dart';
+import 'package:aa_travel_planner/presentation/trips/screens/trip_details_screen.dart';
 import 'package:flutter/material.dart';
 
 class TripCardHorizontal extends StatelessWidget {

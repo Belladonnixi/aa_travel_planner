@@ -1,8 +1,8 @@
 import 'package:aa_travel_planner/data/models/destination.dart';
-import 'package:aa_travel_planner/presentation/features/destinations/screens/destination_details_screen.dart';
+import 'package:aa_travel_planner/presentation/destinations/screens/destination_details_screen.dart';
 import 'package:aa_travel_planner/data/repositories/favorites_repository.dart';
 import 'package:aa_travel_planner/data/models/trip.dart';
-import 'package:aa_travel_planner/presentation/features/trips/screens/trip_details_screen.dart';
+import 'package:aa_travel_planner/presentation/trips/screens/trip_details_screen.dart';
 import 'package:flutter/material.dart';
 
 class CarouselItem extends StatelessWidget {

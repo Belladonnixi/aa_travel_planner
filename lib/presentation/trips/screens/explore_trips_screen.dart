@@ -1,5 +1,5 @@
-import 'package:aa_travel_planner/presentation/features/trips/widgets/trip_card_horizontal.dart';
-import 'package:aa_travel_planner/presentation/features/trips/widgets/trip_card_vertical.dart';
+import 'package:aa_travel_planner/presentation/trips/widgets/trip_card_horizontal.dart';
+import 'package:aa_travel_planner/presentation/trips/widgets/trip_card_vertical.dart';
 import 'package:aa_travel_planner/data/repositories/trip_repository.dart';
 import 'package:flutter/material.dart';
 

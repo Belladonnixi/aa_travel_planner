@@ -1,10 +1,10 @@
 import 'package:aa_travel_planner/data/repositories/destination_repository.dart';
-import 'package:aa_travel_planner/presentation/features/destinations/screens/explore_destinations_screen.dart';
-import 'package:aa_travel_planner/presentation/features/trips/screens/explore_trips_screen.dart';
+import 'package:aa_travel_planner/presentation/destinations/screens/explore_destinations_screen.dart';
+import 'package:aa_travel_planner/presentation/trips/screens/explore_trips_screen.dart';
 import 'package:aa_travel_planner/data/repositories/favorites_repository.dart';
-import 'package:aa_travel_planner/presentation/features/favorites/screens/favorites_screen.dart';
-import 'package:aa_travel_planner/presentation/features/home/screen/home_screen.dart';
-import 'package:aa_travel_planner/presentation/features/settings/screens/settings_screen.dart';
+import 'package:aa_travel_planner/presentation/favorites/screens/favorites_screen.dart';
+import 'package:aa_travel_planner/presentation/home/screen/home_screen.dart';
+import 'package:aa_travel_planner/presentation/screens/settings_screen.dart';
 import 'package:aa_travel_planner/data/repositories/trip_repository.dart';
 import 'package:flutter/material.dart';
 

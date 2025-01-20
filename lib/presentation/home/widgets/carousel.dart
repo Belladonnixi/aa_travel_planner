@@ -1,6 +1,6 @@
 import 'package:aa_travel_planner/data/models/destination.dart';
 import 'package:aa_travel_planner/data/repositories/favorites_repository.dart';
-import 'package:aa_travel_planner/presentation/features/home/widgets/carousel_item.dart';
+import 'package:aa_travel_planner/presentation/home/widgets/carousel_item.dart';
 import 'package:aa_travel_planner/data/models/trip.dart';
 import 'package:flutter/material.dart';
 
